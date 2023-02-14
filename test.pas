@@ -1,6 +1,8 @@
 ﻿
 Program schedule;
 
+{$CODEPAGE CP866} 
+
 Uses Crt;
 
 Label M1,M2;
